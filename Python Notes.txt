@@ -1,0 +1,44 @@
+What is Python?
+Python is a high level general purpose programming language
+
+high level. -  very easy
+python’s syntax/code is as simple as like english
+
+General Purpose:
+1.Desktop Application
+2.Web Application
+3.Mobile Apps
+4.Game Development
+5.AI - Artificial Intelligence
+
+Programming ->program ->set of instructions
++,-,*,/,%=>calculator
+
+History:
+Python =>1991 =>Guido van Rossum
+the language got its name “Python” because its inventor (Guido van Rossum) likes a circuz show “Monty;s Python FLying Circus
+
+Installation:
+Python=>python.org
+
+How to use python?
+open idle ->interactive development learning environment
+
+variables & constant
+x = 5
+x is variable
+5 is constant
+
+Naming Conventions:
+1.variable name must not starts with number or any other special character(except _)
+
+Data Types :
+number : int,float,complex number
+text : String
+Boolean - True/False
+None - blank
+
+—————————————
+Input and Output in Python
+
+
